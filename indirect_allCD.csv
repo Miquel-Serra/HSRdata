@@ -1,0 +1,16 @@
+id,Study,r1,n1,r2,n2,t1,t2,contrast
+1,PMSG-Diabetes,2,158,0.5,167,1,3,Placebo-Prava
+2,CARDS,82,1410,61,1428,1,2,Placebo-Atorva
+3,Jacobson et al. 1995,0.5,63,1,182,1,3,Placebo-Prava
+4,CAIUS,1,74,1,214,3,2,Prava-Atorva
+5,WOSCOPS,135,3293,106,3302,1,3,Placebo-Prava
+6,Mohler et al. 2003,1,114,5,240,1,2,Placebo-Atorva
+7,Lewis et al. 2007,1,163,0.5,163,1,3,Placebo-Prava
+8,PREVEND-IT,4,431,6,433,1,3,Placebo-Prava
+9,MEGA,79,3966,55,3866,1,3,Placebo-Prava
+10,ASCOT-LLA,212,5137,185,5168,1,2,Placebo-Atorva
+11,COMETS,0.5,79,2,157,1,2,Placebo-Atorva
+12,ASPEN - Primary Prevention,41,946,44,959,1,2,Placebo-Atorva
+13,WOSCOPS_2016,1253,3293,1145,3302,1,3,Placebo-Prava
+14,ASCOT-LLA_post,430,2198,377,2234,1,2,Placebo-Atorva
+15,ALLHAT-LLT,130,1049,141,1092,1,3,Placebo-Prava
