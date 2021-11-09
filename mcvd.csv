@@ -1,24 +1,24 @@
 id,Study,r1,n1,r2,n2,t1,t2,duration,rob,statins
-1,ACAPS,16,1377,5,1380,1,2,3,2,Lovastatin
-2,AFCAPS/TexCAPS,25,3301,17,3304,1,2,5.2,2,Lovastatin
-3,ALLHAT-LLT,323,6294,325,6552,1,2,6,3,Pravastatin
-4,ASCOT-LLA,324,20548,220,20672,1,2,3.3,3,Atorvastatin
-5,Sever 2011,131,2198,124,2234,1,2,8,1,Atorvastatin
-6,ASPEN - Primary Prevention,40,1905,39,1905,1,2,4.3,2,Atorvastatin
-7,ASTRONOMER,10,540,2,536,1,2,4,1,Rosuvastatin
-8,BCAPS,5,398,3,395,1,2,3,1,Fluvastatin
-9,CARDS,137,7050,85,7140,1,2,4,1,Atorvastatin
-10,HOPE-3,403,25376,325,25444,1,2,6,1,Rosuvastatin
-11,Heljic  et  al. 2009,9,50,4,45,1,2,1,3,Simvastatin
-12,JUPITER,310,44505,160,44505,1,2,2.2,1,Rosuvastatin
-13,KAPS,11,658,7,662,1,2,3,1,Pravastatin
-14,Lewis et al,2,320,0.5,320,1,2,0.7,3,Pravastatin
-15,MEGA,170,19830,125,19330,1,2,5.3,3,Pravastatin
-16,Mohler,5,228,10,480,1,2,1,3,Atorvastatin
-17,WOSCOPS,324,9879,233,9906,1,2,5,1,Pravastatin
-18,Muldoon et al. 2004,0.5,102,1,206,1,2,0.5,2,Simvastatin
-19,PHYLLIS,3,127,0.5,126,1,2,2.6,1,Pravastatin
-20,PMSG-Diabetes,1,158,0.5,167,1,2,0.3,3,Pravastatin
-21,PREVEND-IT,19,862,12,866,1,2,3.8,1,Pravastatin
-22,RCASS,5,100,3,103,1,2,2,1,Simvastatin
-23,Ford 2016,1313,9879,1106,9906,1,2,20,2,Pravastatin
+1,ACAPS,5,1380,16,1377,2,1,3,2,Lovastatin
+2,AFCAPS/TexCAPS,17,3304,25,3301,2,1,5.2,2,Lovastatin
+3,ALLHAT-LLT,325,6552,323,6294,2,1,6,3,Pravastatin
+4,ASCOT-LLA,220,20672,324,20548,2,1,3.3,3,Atorvastatin
+5,Sever 2011,124,2234,131,2198,2,1,8,1,Atorvastatin
+6,ASPEN - Primary Prevention,39,1905,40,1905,2,1,4.3,2,Atorvastatin
+7,ASTRONOMER,2,536,10,540,2,1,4,1,Rosuvastatin
+8,BCAPS,3,395,5,398,2,1,3,1,Fluvastatin
+9,CARDS,85,7140,137,7050,2,1,4,1,Atorvastatin
+10,HOPE-3,325,25444,403,25376,2,1,6,1,Rosuvastatin
+11,Heljic  et  al. 2009,4,45,9,50,2,1,1,3,Simvastatin
+12,JUPITER,160,44505,310,44505,2,1,2.2,1,Rosuvastatin
+13,KAPS,7,662,11,658,2,1,3,1,Pravastatin
+14,Lewis et al,0.5,320,2,320,2,1,0.7,3,Pravastatin
+15,MEGA,125,19330,170,19830,2,1,5.3,3,Pravastatin
+16,Mohler,10,480,5,228,2,1,1,3,Atorvastatin
+17,WOSCOPS,233,9906,324,9879,2,1,5,1,Pravastatin
+18,Muldoon et al. 2004,1,206,0.5,102,2,1,0.5,2,Simvastatin
+19,PHYLLIS,0.5,126,3,127,2,1,2.6,1,Pravastatin
+20,PMSG-Diabetes,0.5,167,1,158,2,1,0.3,3,Pravastatin
+21,PREVEND-IT,12,866,19,862,2,1,3.8,1,Pravastatin
+22,RCASS,3,103,5,100,2,1,2,1,Simvastatin
+23,Ford 2016,1106,9906,1313,9879,2,1,20,2,Pravastatin
